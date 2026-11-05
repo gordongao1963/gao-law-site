@@ -1,0 +1,65 @@
+# Gao.Law (高点法)
+
+> Premier intellectual property litigation practice based in Beijing, China, serving international clients.
+
+## About
+
+Gao.Law is a specialized IP litigation firm founded in Beijing with deep roots in American legal practice. We occupy a unique position at the intersection of two of the world's most important legal systems—Chinese and American. Our founding partner trained at top U.S. law schools and practiced at leading American firms before establishing this practice.
+
+We understand both the letter of Chinese law and the practical realities of enforcement. We serve Fortune 500 companies and international clients seeking sophisticated IP protection in China.
+
+## Practice Areas
+
+- **Patent Litigation**: Aggressive enforcement and defense of patent rights across all technology sectors, from semiconductors to pharmaceuticals. Includes CNIPA administrative actions and National Major Patent Infringement Cases.
+- **Trademark Protection**: Comprehensive trademark enforcement including counterfeit seizures, domain disputes, opposition proceedings, and brand protection strategies.
+- **Trade Secret Litigation**: Protecting proprietary information through civil litigation, criminal prosecution coordination, and cross-border enforcement.
+- **IP Licensing & SEP/FRAND**: Strategic licensing arrangements between telecommunications licensees and licensors, standard essential patent disputes.
+- **Copyright Litigation**: Protecting original works and digital content through enforcement actions and international coordination.
+
+## Landmark Cases
+
+### INEOS v. Sinopec (2010)
+One of the largest trade secret cases in Chinese history. The settlement resulted in US $7 billion dollars of business for our client over the last decade—one of the most successful settlements in China.
+
+### Michael Jordan v. Qiaodan Sports (2016)
+Secured 77 victories across numerous cases filed across China with a retrial petition to the Supreme People's Court. Selected as a Supreme Court Model IP case on International IP Day, April 26, 2016. Reported by CCTV.
+
+### Apple v. Qualcomm (2019)
+The largest SEP case in China at the time involving standard essential patent licensing disputes. Damages claimed exceed RMB 1.6 billion across more than 30 patent infringement cases before 11 IP Courts and the Supreme People's Court.
+
+### Boehringer Ingelheim v. HEC Pharma (2023)
+The first and only National Major Patent Infringement Case in China. The judgment was successfully enforced against the defendant across 28 provinces in just 18 months following the initial filing.
+
+## Markdown Content Files (For AI Consumption)
+
+These markdown files contain the full website content in AI-friendly format:
+
+- [Homepage Content](/content/index.md) - Main page overview, statistics, and firm introduction
+- [About the Firm](/content/about.md) - Detailed firm background, philosophy, and track record
+- [Practice Areas](/content/practice-areas.md) - All practice area descriptions
+- [Landmark Cases](/content/landmark-cases.md) - Detailed case study summaries
+- [Contact Information](/content/contact.md) - Office address, phone, email, and contact details
+
+## HTML Pages
+
+- [Homepage](/) - Overview of the firm and services
+- [Case Digests](/cases) - Detailed analysis of IP cases in China
+- [Articles](/articles) - Legal insights and practice updates
+- [Contact](/contact) - Get in touch for consultations
+
+## AI Chat
+
+This website features an AI-powered chat assistant that can answer questions about:
+- Chinese IP law and litigation procedures
+- Our practice areas and case experience
+- CNIPA administrative procedures
+- National Major Patent Infringement Cases
+- Contact information and consultation requests
+
+## Contact
+
+For inquiries about IP matters in China, please visit our [contact page](/contact) or use the chat widget available on our website.
+
+---
+
+*Last updated: 2026*

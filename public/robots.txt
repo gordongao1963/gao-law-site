@@ -1,0 +1,96 @@
+# =============================================================================
+# GAO.LAW ROBOTS.TXT - Optimized for AI Search & Citation
+# =============================================================================
+# 
+# IMPORTANT FOR AI CRAWLERS: 
+# 1. Read the comprehensive content file first: /llms-full.txt (all cases, KB, articles)
+# 2. Subscribe to JSON Feed for new content: /feed.json
+# 3. Check markdown content: /content/
+# No need to crawl individual pages - all content consolidated.
+#
+# =============================================================================
+
+# 1. PRIMARY AI SEARCH & CITATION BOTS (Allows citations in answers)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: YouBot
+User-agent: DuckAssistBot
+User-agent: Bravebot
+Allow: /
+
+# 2. CORE LLM TRAINING BOTS (Allows content to be used for model learning)
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalfetcher
+User-agent: cohere-ai
+User-agent: MistralAI-User
+User-agent: Bytespider
+User-agent: CCBot
+Allow: /
+
+# 3. EMERGING & AGENTIC BOTS (For AI automation and research)
+User-agent: GoogleAgent-Mariner
+User-agent: Google-NotebookLM
+User-agent: Amazonbot
+User-agent: Applebot-Extended
+User-agent: AI2Bot
+User-agent: Diffbot
+User-agent: Timpibot
+User-agent: ExaBot
+User-agent: Devin
+Allow: /
+
+# 4. TRADITIONAL SEARCH ENGINE BOTS
+User-agent: Googlebot
+User-agent: Bard
+User-agent: Semrushbot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: DotBot
+Allow: /
+
+# 5. GLOBAL CATCH-ALL (Ensures new/unlisted AI bots can see the site)
+User-agent: *
+Allow: /
+Allow: /cases
+Allow: /cases/*
+Allow: /articles
+Allow: /articles/*
+Allow: /contact
+Allow: /content/
+Allow: /content/*
+Disallow: /admin/
+Disallow: /admin/*
+Disallow: /private/
+Disallow: /api/
+
+# =============================================================================
+# AI-FRIENDLY CONTENT DISCOVERY
+# =============================================================================
+
+# LLMs.txt - AI cheat sheet for understanding this website
+# See: https://gao.law/llms.txt
+
+# Markdown content mirrors (AI-friendly format)
+# /content/index.md - Homepage content
+# /content/about.md - About the firm
+# /content/practice-areas.md - Practice area descriptions
+# /content/landmark-cases.md - Featured landmark cases
+# /content/cases.md - Full case digest library
+# /content/contact.md - Contact information
+
+# =============================================================================
+# CRAWL CONFIGURATION
+# =============================================================================
+
+Crawl-delay: 1
+Sitemap: https://gao.law/sitemap.xml

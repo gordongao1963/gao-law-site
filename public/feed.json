@@ -1,0 +1,120 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Gao.Law - Intellectual Property Litigation & Case Updates",
+  "description": "Latest landmark cases, articles, and updates from Gao.Law, a premier IP litigation practice in China specializing in patent infringement, trademark protection, and trade secret cases.",
+  "home_page_url": "https://gao.law",
+  "feed_url": "https://gao.law/feed.json",
+  "language": "en-us",
+  "icon": "https://gao.law/favicon.ico",
+  "favicon": "https://gao.law/favicon.ico",
+  "authors": [
+    {
+      "name": "Gao.Law",
+      "url": "https://gao.law"
+    }
+  ],
+  "items": [
+    {
+      "id": "boehringer-dyg-national-major",
+      "title": "Boehringer v. DYG - First National Major Patent Infringement Case",
+      "summary": "Represented Boehringer Ingelheim in the first and only National Major Patent Infringement Case in China. The judgment was successfully enforced across 28 provinces in just 18 months.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2023-01-01T00:00:00Z",
+      "tags": [
+        "patent litigation",
+        "national major case",
+        "enforcement",
+        "pharma"
+      ],
+      "content_html": "<p><strong>Case:</strong> Boehringer v. DYG</p><p><strong>Result:</strong> Landmark National Major Patent Infringement Case - the first and only in China</p><p><strong>Achievement:</strong> Judgment successfully enforced against defendant across 28 provinces in only 18 months (filed 2023)</p><p><strong>Practice Insight:</strong> Demonstrates Gao.Law's expertise in navigating China's highest-priority patent litigation framework and achieving rapid enforcement nationwide.</p>"
+    },
+    {
+      "id": "ineos-sinopec-trade-secret",
+      "title": "INEOS v. Sinopec - US$7 Billion Trade Secret Settlement",
+      "summary": "One of the largest trade secret cases in Chinese history. Settlement collaboration resulted in US$7 billion of business for client over 10 years.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2015-01-01T00:00:00Z",
+      "tags": [
+        "trade secrets",
+        "settlement",
+        "petrochemical",
+        "high-value"
+      ],
+      "content_html": "<p><strong>Case:</strong> INEOS v. Sinopec</p><p><strong>Type:</strong> One of the largest trade secret cases in Chinese history</p><p><strong>Result:</strong> Strategic settlement resulting in US$7 billion of business for client over 10 years</p><p><strong>Significance:</strong> One of the most successful settlements in China, demonstrating value of expert negotiation and strategy in complex trade secret disputes.</p>"
+    },
+    {
+      "id": "jordan-qiaodan-supreme-court",
+      "title": "Michael Jordan v. Qiaodan - Supreme Court Landmark Victory",
+      "summary": "77 victories across 80+ cases filed nationwide. Supreme Court Model IP Case selected for International IP Day 2016. Strategic use of multi-jurisdiction filing to overcome local protection.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2016-04-26T00:00:00Z",
+      "tags": [
+        "trademark",
+        "celebrity brand",
+        "supreme court",
+        "multi-jurisdiction",
+        "international"
+      ],
+      "content_html": "<p><strong>Case:</strong> Michael Jordan v. Qiaodan Sports Co.</p><p><strong>Claim:</strong> Protection of Chinese character mark \"Qiaodan\"</p><p><strong>Result:</strong> 77 victories out of 80+ cases filed across China; Retrial petition successful at Chinese Supreme People's Court</p><p><strong>Recognition:</strong> Selected as Supreme Court Model IP Case on International IP Day, April 26, 2016</p><p><strong>Strategy:</strong> Novel approach using numerous coordinated filings to overcome long history of losses by previous counsel.</p>"
+    },
+    {
+      "id": "apple-qualcomm-sep-frand",
+      "title": "Apple v. Qualcomm - Largest SEP/FRAND Case in China",
+      "summary": "Damages exceed RMB 1.6 billion. 30+ patent cases across 11 IP Courts and Supreme People's Court. Apple engaged only Dr. Gao's team while Qualcomm engaged 6 legal teams.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2014-01-01T00:00:00Z",
+      "tags": [
+        "SEP/FRAND",
+        "standard essential patents",
+        "telecommunications",
+        "high-stakes litigation",
+        "complex"
+      ],
+      "content_html": "<p><strong>Case:</strong> Apple v. Qualcomm</p><p><strong>Type:</strong> Standard Essential Patent (SEP) licensing dispute - FRAND litigation</p><p><strong>Scale:</strong> Damages claimed exceed RMB 1.6 billion; 30+ patent infringement cases</p><p><strong>Scope:</strong> Litigation before 11 IP Courts, Provincial High Courts, and Supreme People's Court</p><p><strong>Resources:</strong> Apple engaged only Dr. Gao's team; Qualcomm engaged 6 legal teams - demonstrating confidence in counsel choice</p><p><strong>Status:</strong> Largest SEP case in China at the time.</p>"
+    },
+    {
+      "id": "dow-luxi-trade-secret",
+      "title": "Dow v. Luxi Chemical - US$102 Million Trade Secret Victory",
+      "summary": "Won US$102 million in damages and injunction in breach of trade secret case. Demonstrates firm's expertise in protecting critical industrial secrets.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2012-01-01T00:00:00Z",
+      "tags": [
+        "trade secrets",
+        "breach of contract",
+        "chemical industry",
+        "injunction",
+        "damages"
+      ],
+      "content_html": "<p><strong>Case:</strong> Dow v. Luxi Chemical</p><p><strong>Claim:</strong> Breach of trade secret</p><p><strong>Result:</strong> US$102 million in damages + injunction against defendant</p><p><strong>Significance:</strong> Major victory protecting critical trade secrets in chemical/petrochemical industry.</p>"
+    },
+    {
+      "id": "watson-pharma-supreme-court",
+      "title": "Watson Pharma v. Eli Lilly - Supreme Court Reversal",
+      "summary": "Supreme Court reversed RMB 151 million judgment against Watson. Selected as first Supreme Court Model IP Case on International IP Day 2014.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2014-04-26T00:00:00Z",
+      "tags": [
+        "pharmaceutical",
+        "patent litigation",
+        "supreme court reversal",
+        "appellate success"
+      ],
+      "content_html": "<p><strong>Case:</strong> Watson Pharmaceutical v. Eli Lilly</p><p><strong>Original Judgment:</strong> RMB 151 million against Watson Pharmaceutical</p><p><strong>Appeal Result:</strong> Supreme People's Court reversed judgment in client's favor</p><p><strong>Recognition:</strong> Selected as first Supreme Court Model IP Case on International IP Day, April 26, 2014</p><p><strong>Context:</strong> Case was lost in lower proceedings before client engaged Gao.Law team for Supreme Court appeal.</p>"
+    },
+    {
+      "id": "apple-app-store-copyright",
+      "title": "Apple App Store - 140+ Copyright & Trademark Cases",
+      "summary": "Represented Apple in 140+ copyright, trademark, and unfair competition disputes. Many selected as annual Top 10 IP Cases by NIPA and Beijing High Court.",
+      "url": "https://gao.law/#cases",
+      "date_published": "2018-01-01T00:00:00Z",
+      "tags": [
+        "copyright",
+        "trademark",
+        "digital rights",
+        "App Store",
+        "portfolio"
+      ],
+      "content_html": "<p><strong>Case Portfolio:</strong> Apple App Store copyright and trademark enforcement</p><p><strong>Scope:</strong> 140+ copyright infringement, trademark infringement, and unfair competition disputes</p><p><strong>Recognition:</strong> Many cases selected as annual 'Top 10 IP Cases' by National Intellectual Property Administration (NIPA) and Beijing High Court</p><p><strong>Significance:</strong> Largest portfolio of digital content enforcement cases, demonstrating expertise in App Store IP protection.</p>"
+    }
+  ]
+}
