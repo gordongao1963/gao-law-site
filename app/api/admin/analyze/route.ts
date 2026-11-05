@@ -1,6 +1,7 @@
 import { generateText, Output } from "ai"
 import { NextResponse } from "next/server"
 import { z } from "zod"
+import { requireAdminApi } from "@/lib/admin-auth"
 
 const CaseAnalysisSchema = z.object({
   title: z.string().describe("A concise, compelling title for the case"),
@@ -20,6 +21,9 @@ const CaseAnalysisSchema = z.object({
 })
 
 export async function POST(request: Request) {
+  const unauthorized = await requireAdminApi()
+  if (unauthorized) return unauthorized
+
   try {
     const { caseText, filename } = await request.json()
 

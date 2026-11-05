@@ -93,6 +93,12 @@ export default function AdminPage() {
                 {submitting ? "Verifying..." : "Login"}
               </Button>
             </form>
+
+            <p className="text-center text-sm text-muted-foreground mt-4">
+              <a href="/admin/forgot-password" className="hover:text-foreground transition-colors">
+                Forgot password?
+              </a>
+            </p>
           </div>
         </div>
       </div>

@@ -64,6 +64,12 @@ export default function AdminLoginPage() {
           </Button>
         </form>
 
+        <p className="text-center text-sm text-muted-foreground mt-4">
+          <a href="/admin/forgot-password" className="hover:text-foreground transition-colors">
+            Forgot password?
+          </a>
+        </p>
+
         <p className="text-center text-sm text-muted-foreground mt-6">
           <a href="/" className="hover:text-foreground transition-colors">
             Back to website
